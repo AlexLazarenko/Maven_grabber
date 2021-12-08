@@ -1,0 +1,6 @@
+executor:
+  service: enable
+rows:
+  page: 6
+source:
+  provider: search.maven.org
